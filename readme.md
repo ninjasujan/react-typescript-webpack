@@ -30,3 +30,9 @@
 
 1. Create webpack.config.js file and configure settings
 2. Create dev entry in package.json file - to start react server
+
+### Level - 4 Styles Import
+
+1. Install css-loader and style-loader to import css module to the project.
+2. make configuration rule in webpack to load
+3. Use config rule to load svg and png images
