@@ -14,9 +14,19 @@
 
 #### Level - 2 - Installing dependencies.
 
-1. Install react and react-dom. - `npm i react react-dom`
+1. Install react and react-dom. - `npm i react react-dom`.
+
 2. Install `npm i typescript @types/react and @types/react-dom`.
+
 3. Create tsconfig.json file in root of the directory `tsc --init`.
+
 4. Install babel dependencies - `npm i -D @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript`.
+
 5. Install webpack - `npm i -D webpack webpack-cli webpack-dev-server html-webpack`
+
 6. Install babel loader - `npm i -D babel-loader`
+
+#### Level - 3 - Create webpack configuration
+
+1. Create webpack.config.js file and configure settings
+2.
