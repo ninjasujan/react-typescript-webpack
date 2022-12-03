@@ -24,9 +24,9 @@
 
 5. Install webpack - `npm i -D webpack webpack-cli webpack-dev-server html-webpack`
 
-6. Install babel loader - `npm i -D babel-loader`
+6. Install babel loader - `npm i -D babel-loader` and `@babel/plugin-transform-runtime"`
 
 #### Level - 3 - Create webpack configuration
 
 1. Create webpack.config.js file and configure settings
-2.
+2. Create dev entry in package.json file - to start react server
