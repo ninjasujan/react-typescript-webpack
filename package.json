@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-webpack-setup",
+  "version": "1.0.0",
+  "description": "React Typescript Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujanwebdev/react-typescript-webpack-setup.git"
+  },
+  "author": "sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujanwebdev/react-typescript-webpack-setup/issues"
+  },
+  "homepage": "https://github.com/sujanwebdev/react-typescript-webpack-setup#readme"
+}
