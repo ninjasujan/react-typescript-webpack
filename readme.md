@@ -31,6 +31,7 @@
 1. Create webpack.config.js file and configure settings
 2. Create dev entry in package.json file - to start react server
 
+<<<<<<< HEAD
 #### Level - 4 Styles Import
 
 1. Install css-loader and style-loader to import css module to the project.
@@ -43,3 +44,10 @@
 
 1. Use webpack-merge dependency to merge webapck
 2. Depending on the env choose config merge script - webpack
+=======
+### Level - 4 Styles Import
+
+1. Install css-loader and style-loader to import css module to the project.
+2. make configuration rule in webpack to load
+3. Use config rule to load svg and png images
+>>>>>>> bd52f8c592620d7b43080adefcfa810dd900631d
